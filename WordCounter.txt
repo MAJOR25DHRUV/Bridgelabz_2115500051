@@ -1,0 +1,8 @@
+C# is a powerful programming language. 
+The language C# is widely used in software development.
+Many developers love C# because it is easy to learn.
+Learning C# can be fun and challenging at the same time.
+This text file is created to test C# programs.
+The word "C#" appears multiple times in this file.
+If you count the word "C#", you will find its occurrence.
+C# is used in game development, web development, and more.

@@ -1,0 +1,5 @@
+Why is StringBuilder Faster?
+Immutable Strings: Regular string is immutable, so every += creates a new object.
+Efficient Memory Usage: StringBuilder modifies an existing buffer instead of creating new objects.
+Lower Garbage Collection: Fewer objects are created, reducing memory overhead.
+This demonstrates why StringBuilder is the preferred choice for frequent string modifications. 🚀
