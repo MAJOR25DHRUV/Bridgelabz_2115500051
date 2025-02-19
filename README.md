@@ -1,76 +1,154 @@
-#  C# Learning Roadmap  
+# Bridgelabz_2115500051
 
-##  18-01-25 → .NET & C# Fundamentals  
-- Introduction to **.NET Framework**  
-- Understanding **C# Basics**  
+# January  
 
-##  19-01-25 → Practice Assignment (Day 1)  
-- Solving fundamental programming problems  
+# Date-> 22-01-25
 
-##  20-01-25 → C# Programming Fundamentals  
--  C# Comments  
--  Basic Data Types  
--  Variables  
--  Arithmetic Operators  
--  Operator Precedence  
--  Type Conversion  
--  Taking User Input  
+    - C# Comments
+    - C# Variables
+    - C# Basic Data Types
+    - Arithmetic Operators
+    - Operator Precedence
+    - Type Conversion
+    - Taking User Input in Programs
 
-##  21-01-25 → Type Casting  
--  Implicit & Explicit Type Conversion  
--  `Convert` Class & `Parse` Method  
+# Date-> 23-01-25
 
-##  22-01-25 → C# Control Flow & Assignment 2  
--  Conditional Statements (`if-else`, `else if`)  
--  Boolean Data Type & Expressions  
--  Logical Operators  
--  Loops (`for`, `while`)  
--  `break` and `continue` Statements  
--  `switch` Statement  
+    - C# Control Flows
+    - C# boolean Data Type
+    - Boolean Expressions
+    - Logical Operators
+    - if Conditional Statement along with else if and final else statement
+    - C# loops - for and while
+    - C# break and continue statement
+    - C# switch Statement
 
-##  23-01-25 → Control Flow Assignment & Switch Cases  
--  Solving problems based on control flow  
+# Date-> 25-01-25
 
-##  25-01-25 → C# Arrays  
--  Creating and Accessing Arrays  
--  Using `for` Loop with Arrays  
--  Modifying an Array  
--  `Length` Property of an Array  
--  Multi-Dimensional Arrays  
--  2D Arrays (Matrix)  
--  `Console.Error.WriteLine()` & `Environment.Exit()`  
+    - C# Arrays
+    - Create an Array
+    - Access an Array
+    - Accessing using for loop
+    - Modifying an Array
+    - Using length property of array
+    - C# Multi-demensional Array
+    - C# 2 Dimensional Array (Matrix)
+    - Accessing, finding size, etc of Multi-Dimensional Array
+    - Using C# Console.Error.WriteLine() Message and Environment.Exit() Method
 
-##  27-01-25 → C# Methods & Arrays  
--  User-Defined Methods  
--  Calling Methods Multiple Times  
--  Recursive Methods  
--  Static Methods  
+# Date-> 28-01-25
 
-##  28-01-25 → Assignment Submission & Strings  
-- Understanding Strings in C#  
--  Common String Functions  
+    - User-Defined Methods
+    - Using Methods Multiple Times
+    - Making Methods More Dynamic
+    - Recursive Methods
+    - Static Methods in C#
+    - .NET Standard Library Methods
+    - System.Math Class in C#
 
-##  29-01-25 → String & Array Methods  
--  String Manipulation  
--  Array Methods  
--  Array-related Problems  
+# Date-> 30-01-25
 
-##  30-01-25 → String Handling & Functions  
--  Advanced String Functions  
--  Function Parameter Passing  
+    - Handling strings 
+    - common string functions
+    - Functions and function parameter passing
 
-##  31-01-25 → Built-in Functions & OOP Introduction  
--  Using Common Built-in Functions  
--  Procedural vs. Object-Oriented Programming  
--  Introduction to Classes & Objects  
+# Date-> 31-01-25
 
-##  02-02-25 → Constructors & Access Modifiers  
--  C# Constructors (Default, Parameterized, Copy)  
--  Instance vs. Class Variables  
--  Access Modifiers (`private`, `public`, `protected`, `internal`)  
+    - how to use common Built-in Functions
+    - Procedural vs Object-oriented Programming Language
+    - Class and Object
+    
+# February  
 
-##  04-02-25 → Advanced OOP Concepts  
--  `this` Keyword  
--  `static` Keyword  
--  `sealed` Class  
--  `is` Operator  
+# Date-> 02-02-25
+
+    - C# Constructors
+    - Instance vs. Class Variables
+    - Access Modifiers Level 1
+
+# Date-> 04-02-25
+
+    - this
+    - static
+    - sealed
+    - is operator
+
+# Date-> 06-02-25
+
+    - Object Oriented Design Principles
+        - Association, Aggregation and Composition
+    - Class Diagram
+    - Object Diagrams
+    - Sequence Diagrams
+
+# Date-> 08-02-25
+
+    - Inheritance
+    - Single Level Inheritance
+    - Multilevel Inheritance
+    - Hierarchical Inheritance
+    - Key Features of Inheritance
+    - Method Overriding
+    - Constructor Inheritance in C#
+    - Polymorphism and Inheritance
+    - Access Modifiers and Inheritance
+
+# Date-> 10-02-25
+
+    - Encapsulation
+    - Polymorphism 
+    - Interface
+    - Abstract Classes
+
+# Date-> 12-02-25
+
+    - Single Linked List
+    - Double Linked List
+    - Circular Linked List
+
+# Date-> 13-02-25
+
+    -Stack
+    -Queue
+    -HashMap(known as Dictionary)
+    -Hash Function
+
+# Date-> 14-02-25
+
+    - Bubble Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
+    - Heap Sort
+    - Selection Sort
+    - Counting Sort
+
+# Date-> 16-02-25
+
+    - StringBuilder
+    - StringBuffer
+    - FileReader, 
+    - InputStreamReader
+    - Linear Search 
+    - Binary Search
+
+# Date-> 17-02-25
+
+    - General Algorithm Best Practices
+    - Time and space Complexity Optimization
+
+# Date-> 18-02-25
+
+    - Generics
+
+# Date-> 19-02-25
+
+    - Overview of Collections Framework
+    - What is the Collections Framework?
+    - Hierarchy of Collections Framework
+    - List Interface and Implementing Classes
+    - Set Interface and Implementing Classes
+    - Queue and Deque Interfaces
+    - Map Interface and Its Implementations
+    - Comparison of Different Implementations
+    - Real-World Use Cases and Best Practices.
