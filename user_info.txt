@@ -1,0 +1,5 @@
+User Information:
+Name: Arihant Vinayak Shukla
+Age: 21
+Favorite Programming Language: C#
+Date Recorded: 20-02-2025 14:26:36

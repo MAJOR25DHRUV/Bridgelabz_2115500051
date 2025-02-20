@@ -1,0 +1,6 @@
+﻿this is an example file with mixed case text.
+some lines are all uppercase.
+some lines are mixed case.
+this line is mostly lowercase.
+programming in c# is fun!
+the end.
