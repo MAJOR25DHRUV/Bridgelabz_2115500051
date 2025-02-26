@@ -1,0 +1,13 @@
+{
+    "workInfo": {
+        "company": "ABC Corp",
+        "position": "Senior Developer",
+        "yearsOfExperience": 8
+    },
+    "skills": [
+        "C#",
+        "JavaScript",
+        "SQL",
+        "Azure"
+    ]
+}
