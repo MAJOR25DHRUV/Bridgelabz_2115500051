@@ -1,0 +1,30 @@
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\AVS\BridgeLabz\assignment\28 feb\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\Dhruv254\28 feb\28 feb\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll

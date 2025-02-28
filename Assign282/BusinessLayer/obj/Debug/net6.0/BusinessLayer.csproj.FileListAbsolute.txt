@@ -1,0 +1,34 @@
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\AVS\BridgeLabz\assignment\28 feb\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\Dhruv254\28 feb\28 feb\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

@@ -1,0 +1,22 @@
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+D:\AVS\BridgeLabz\assignment\28 feb\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
+D:\Dhruv254\28 feb\28 feb\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+D:\Dhruv254\28 feb\28 feb\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\Dhruv254\28 feb\28 feb\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\Dhruv254\28 feb\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dhruv254\28 feb\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+D:\Dhruv254\28 feb\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+D:\Dhruv254\28 feb\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+D:\Dhruv254\28 feb\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+D:\Dhruv254\28 feb\28 feb\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+D:\Dhruv254\28 feb\28 feb\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+D:\Dhruv254\28 feb\28 feb\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
